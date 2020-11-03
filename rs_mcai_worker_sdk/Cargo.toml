@@ -33,7 +33,7 @@ amq-protocol-uri = "=6.0.0-rc12"
 bytes = {version = "0.5", optional = true}
 chrono = {version = "0.4", features = ["serde"]}
 dict_derive = "0.2.0"
-env_logger = "^0.7"
+env_logger = "^0.8"
 failure = "^0.1"
 futures = "^0.3"
 futures-util = "^0.3"
